@@ -9,3 +9,7 @@ Answer: Data science could be applied to the healthcare industry. Data science c
 Q3: What is the difference between merging and rebasing?
 
 Answer: We utilize merging when we want to retain a complete history of when branches were integrated, and especially when collaborating with others. We want to use rebasing when we want a clean, linear history, but typically on local branches that haven't been shared with others yet.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to just get any sort of general data science skill to put in my skillset for jobs/internships.
